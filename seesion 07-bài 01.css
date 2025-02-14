@@ -1,0 +1,13 @@
+h1 {
+    color: rgb(72, 71, 71);
+}
+.button1 {
+    background-color: red;
+    color: white;
+    border-radius: 3px;
+}
+.button2 {
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 3px;
+}
