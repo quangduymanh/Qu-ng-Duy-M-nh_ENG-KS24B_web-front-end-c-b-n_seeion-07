@@ -1,0 +1,35 @@
+.editor-pick {
+    width: 350px;
+    background: white;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+h1 {
+    font-size: 18px;
+    font-weight: bold;
+    align-items: center;
+}
+.editor-pick h1 img {
+    width: 24px;
+    height: 24px;
+    margin-right: 8px;
+}
+.editor-pick img.article-image {
+    width: 100%;
+    border-radius: 5px;
+}
+h2 {
+    font-size: 16px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+h5 {
+    font-size: 14px;
+    font-weight: bold;
+    color: rgb(37, 37, 44);
+}
+p {
+    font-size: 14px;
+    color: rgb(137, 126, 126);
+}
