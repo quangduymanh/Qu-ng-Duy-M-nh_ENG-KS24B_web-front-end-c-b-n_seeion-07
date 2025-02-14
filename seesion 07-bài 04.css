@@ -1,0 +1,19 @@
+.tion {
+    width: 360px;
+    background: white;
+    border: 1px solid rgb(232, 217, 217);
+    border-radius: 8px;
+    padding: 10px;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+}
+h2 {
+    font-size: 18px;
+    margin: 0;
+    padding: 10px;
+    border-left: 5px solid rgb(188, 87, 28);
+}
+img {
+    width: 100%;
+    border-radius: 8px;
+    margin-bottom: 10px;
+}
